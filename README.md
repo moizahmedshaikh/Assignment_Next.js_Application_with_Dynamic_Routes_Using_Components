@@ -1,0 +1,2 @@
+# Assignment_Next.js_Application_with_Dynamic_Routes_Using_Components
+this is assignment
